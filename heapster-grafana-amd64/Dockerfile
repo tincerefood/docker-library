@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-aggregator-amd64:v1.10.3
+FROM k8s.gcr.io/heapster-grafana-amd64:v4.4.3
 MAINTAINER zxm <zhangxianmin@tincerefood.com>

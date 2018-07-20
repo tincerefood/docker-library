@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-aggregator-amd64:v1.10.3
+FROM docker/kube-compose-api-server:v0.3.5
 MAINTAINER zxm <zhangxianmin@tincerefood.com>
